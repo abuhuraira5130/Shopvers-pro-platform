@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛍️ Storefront Pro
+# 🛍️ Shopvers Pro
 
 ### A modern full-stack ecommerce storefront built with React, Django REST Framework, JWT authentication, and production deployment.
 
