@@ -9,7 +9,7 @@
 [![Backend](https://img.shields.io/badge/Backend-Django%20REST-092E20?style=for-the-badge&logo=django&logoColor=white)](#-tech-stack)
 [![Deploy](https://img.shields.io/badge/Production-Deployed-success?style=for-the-badge)](https://shopverseio.vercel.app/)
 
-🚀 **Live Project:** [https://shopverseio.vercel.app/](https://shopverseio.vercel.app/)
+🚀 **Live Project:** [https://shopvers.me/)
 
 </div>
 
